@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @areej-jpg
-- 👀 I’m interested in cricket 
-- 🌱 I’m currently learning how to actually code
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me on af24092005@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an amazing writer if i may say so myself
+👋 Hi there! I'm Areej Fatima, a passionate Software Engineering student at COMSATS.
+💻 I love diving into code and exploring new technologies — currently focused on mastering Object-Oriented Programming (OOP).
+🌐 I’ve worked with Java, C++, and Python, and enjoy building clean, efficient, and creative solutions.
+📚 Always learning, always growing — open to collaboration, ideas, and innovation!
 
-<!---
-areej-jpg/areej-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s connect and build something great together! 🚀
